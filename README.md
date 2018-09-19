@@ -1,1 +1,1 @@
-# PCS-Spider
+`index.cmd` is depended on [iikira](https://github.com/iikira)/[BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go).
